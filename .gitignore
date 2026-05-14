@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.local
+*.sqlite3
+/backend/media/
+/backend/staticfiles/
+/backend/.venv/
+
+# Node
+/frontend/node_modules/
+/frontend/dist/
+
+# Docker
+.docker/
+
+# IDE
+.vscode/
+.idea/
+*.swp
